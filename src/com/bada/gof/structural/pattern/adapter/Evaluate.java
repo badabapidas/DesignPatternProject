@@ -1,7 +1,7 @@
 /**
  * Exercise to convert a square to rectangle
  */
-package com.bada.gof.creational.pattern.adapter;
+package com.bada.gof.structural.pattern.adapter;
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;

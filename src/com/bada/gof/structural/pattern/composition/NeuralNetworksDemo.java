@@ -1,4 +1,4 @@
-package com.bada.gof.creational.pattern.composition;
+package com.bada.gof.structural.pattern.composition;
 
 import java.util.ArrayList;
 import java.util.Collections;

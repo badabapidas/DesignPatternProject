@@ -3,7 +3,7 @@
  * already present in the cache
  * 
  */
-package com.bada.gof.creational.pattern.adapter;
+package com.bada.gof.structural.pattern.adapter;
 
 import java.util.*;
 import java.util.function.Consumer;

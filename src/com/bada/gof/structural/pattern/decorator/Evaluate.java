@@ -1,4 +1,4 @@
-package com.bada.gof.creational.pattern.decorator;
+package com.bada.gof.structural.pattern.decorator;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 

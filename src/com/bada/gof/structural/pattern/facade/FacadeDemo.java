@@ -11,7 +11,7 @@
  * we hide all those low level impl and give user a simple api which they can use to done their job.
  * 
  */
-package com.bada.gof.creational.pattern.facade;
+package com.bada.gof.structural.pattern.facade;
 
 import java.util.ArrayList;
 import java.util.List;

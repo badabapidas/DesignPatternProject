@@ -16,7 +16,7 @@
  * is wrong as the given rectangle is still 2.
  * 
  */
-package com.bada.gof.creational.pattern.adapter;
+package com.bada.gof.structural.pattern.adapter;
 
 import java.util.ArrayList;
 import java.util.Arrays;

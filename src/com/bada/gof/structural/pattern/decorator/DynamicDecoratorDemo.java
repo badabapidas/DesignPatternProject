@@ -1,4 +1,4 @@
-package com.bada.gof.creational.pattern.decorator;
+package com.bada.gof.structural.pattern.decorator;
 
 interface Shape {
 	String info(); // deliberately different from toString

@@ -4,7 +4,7 @@
  * The actual exercise can be found https://www.udemy.com/course/design-patterns-java/learn/quiz/4350296#questions
  * 
  */
-package com.bada.gof.creational.pattern.bridge;
+package com.bada.gof.structural.pattern.bridge;
 
 import static org.junit.Assert.assertEquals;
 

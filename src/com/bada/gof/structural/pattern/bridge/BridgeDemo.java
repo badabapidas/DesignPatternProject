@@ -9,7 +9,7 @@
  * 
  * 
  */
-package com.bada.gof.creational.pattern.bridge;
+package com.bada.gof.structural.pattern.bridge;
 
 import com.google.inject.AbstractModule;
 import com.google.inject.Guice;

@@ -4,7 +4,7 @@
  * Treating individual and aggregate object uniformely; A mechanism for treating individual (scalar) objects
  *  and compositions of objects in uniform manner.
  */
-package com.bada.gof.creational.pattern.composition;
+package com.bada.gof.structural.pattern.composition;
 
 import java.util.ArrayList;
 import java.util.Collections;

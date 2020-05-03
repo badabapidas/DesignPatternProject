@@ -1,4 +1,4 @@
-package com.bada.gof.creational.pattern.decorator;
+package com.bada.gof.structural.pattern.decorator;
 
 class Bird {
 	public int age;
